@@ -25,3 +25,11 @@
     position:relative;
     left: 177px
 }
+.cardlikes {
+    position:relative;
+    bottom: 28px
+}
+.postcontent {
+    position:relative;
+    bottom: 25px
+}
