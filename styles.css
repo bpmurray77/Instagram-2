@@ -1,6 +1,9 @@
 .cardimg {
     width: 333px;
     height: auto;
+    position:relative;
+    bottom: 65px;
+    right: 7px
 }
 .headertext {
     margin-bottom:1px;
@@ -8,4 +11,9 @@
     position:relative;
     left: 35px;
     bottom: 35px;
+}
+.fa-ellipsis-v {
+    position:relative;
+    left: 311px;
+    bottom: 66px
 }
