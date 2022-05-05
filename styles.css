@@ -2,7 +2,7 @@
     width: 333px;
     height: auto;
     position:relative;
-    bottom: 65px;
+    bottom: 55px;
     right: 7px
 }
 .headertext {
@@ -15,5 +15,13 @@
 .fa-ellipsis-v {
     position:relative;
     left: 311px;
-    bottom: 66px
+    bottom: 4.4rem
+}
+.cardicons {
+    position: relative;
+    bottom: 39px;
+}
+.fa-bookmark-o {
+    position:relative;
+    left: 177px
 }
