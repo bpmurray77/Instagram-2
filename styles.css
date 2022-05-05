@@ -2,7 +2,7 @@
     width: 333px;
     height: auto;
 }
-p.cardheader {
+.headertext {
     margin-bottom:1px;
     margin-top: 1px;
 }
