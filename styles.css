@@ -5,4 +5,7 @@
 .headertext {
     margin-bottom:1px;
     margin-top: 1px;
+    position:relative;
+    left: 35px;
+    bottom: 36px;
 }
