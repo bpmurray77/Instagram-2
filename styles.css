@@ -1,9 +1,15 @@
+body {
+    background-color: black;
+}
+.cardbody {
+    width: 333px;
+    background-color: white;
+}
 .cardimg {
     width: 333px;
     height: auto;
     position:relative;
     bottom: 55px;
-    right: 7px
 }
 .headertext {
     margin-bottom:1px;
